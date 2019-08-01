@@ -1,1 +1,1 @@
-include ':app', ':nteseventbustest'
+include ':app', ':nteseventbustest', ':netese_arouter', ':login', ':member', ':aroute', ':annotations', ':annotation_compler'
